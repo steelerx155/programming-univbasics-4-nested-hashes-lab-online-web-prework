@@ -6,6 +6,7 @@ def hopper
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
                   },
+                  puts [grace_hopper]
         :alan_kay => {
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
