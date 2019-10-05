@@ -80,7 +80,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-   programmer_hash[:grace_hopper][:alan_kay][:dennis_ritchie][:adding_matz][:yukihiro_matsumoto]
+   programmer_hash[:grace_hopper][:alan_kay][:dennis_ritchie][:adding_matz.keys][:yukihiro_matsumoto]
     
 end
 
